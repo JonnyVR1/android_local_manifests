@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="JonnyXDA/android_device_vernee_apollo" path="device/vernee/apollo" remote="github" revision="LineageOS-14.1" />
+  <project name="JonnyXDA/android_kernel_vernee_apollo" path="kernel/vernee/apollo" remote="github" revision="LineageOS-14.1" />
+  <project name="JonnyXDA/android_vendor_vernee_apollo" path="vendor/vernee/apollo" remote="github" revision="LineageOS-14.1" />
+  <project name="JonnyXDA/android_device_ulefone_metal" path="device/ulefone/metal" remote="github" revision="LineageOS-14.1" />
+  <project name="JonnyXDA/android_kernel_ulefone_metal" path="kernel/ulefone/metal" remote="github" revision="LineageOS-14.1" />
+  <project name="JonnyXDA/android_vendor_ulefone_metal" path="vendor/ulefone/metal" remote="github" revision="LineageOS-14.1" />
+</manifest>
